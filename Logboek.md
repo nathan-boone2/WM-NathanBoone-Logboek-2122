@@ -9,3 +9,8 @@ In de avond nog aan gewerkt --> 0,5h
 
 Les 02 over php en api's --> 4h
 taak gemaakt thuis --> 1h +-
+
+## Week 03
+
+Les 03 over installatie cordova en android studio --> 3h
+thuis verder gewerkt --> redelijk veel problemen gehad + install op laptop + desktop (6h +-)
