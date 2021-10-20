@@ -13,4 +13,9 @@ taak gemaakt thuis --> 1h +-
 Les 03 over installatie cordova en android studio --> 3h
 thuis verder gewerkt --> redelijk veel problemen gehad + install op laptop + desktop (6h +-)
 
+## Week 04
+
+Les 03 over framework7 --> 3h
+thuis verder bekeken en oefening gemaakt een beetje --> 1h
+
 
