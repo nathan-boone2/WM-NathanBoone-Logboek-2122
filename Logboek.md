@@ -15,7 +15,15 @@ thuis verder gewerkt --> redelijk veel problemen gehad + install op laptop + des
 
 ## Week 04
 
-Les 03 over framework7 --> 3h
+Les 04 over framework7 --> 3h
 thuis verder bekeken en oefening gemaakt een beetje --> 1h
 
+## Week 05
+
+les 05 over  het gebruik van framework7 en cordova etc --> 3h
+begonnen aan het project met teamgenoten --> bijna een halve dag aan gewerkt
+
+## Week 06
+
+les introductie over kotlin en android studio + fix probleem met project tijdens de les --> 3.5h
 
