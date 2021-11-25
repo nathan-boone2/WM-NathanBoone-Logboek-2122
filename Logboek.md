@@ -26,4 +26,22 @@ begonnen aan het project met teamgenoten --> bijna een halve dag aan gewerkt
 ## Week 06
 
 les introductie over kotlin en android studio + fix probleem met project tijdens de les --> 3.5h
+tijdens de week nog gewerkt aan het project --> 5h
+
+## Vakantieweek
+
+tijdens de week nog gewerkt aan het project --> +- 15h
+
+## Week 07
+
+les over kotlin --> afwezig door quarantaine maar heb wel mee online gevolgd
+tijdens de week nog gewerkt aan het project --> +- 8h
+
+## Integration project week
+
+tijdens de week nog gewerkt aan het project --> +- 4h
+
+
+
+
 
