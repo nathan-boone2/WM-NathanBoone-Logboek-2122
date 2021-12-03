@@ -41,7 +41,10 @@ tijdens de week nog gewerkt aan het project --> +- 8h
 
 tijdens de week nog gewerkt aan het project --> +- 4h
 
+## Week 08
 
+Les meeting met leerkracht --> meeting met leerkracht en verder gewerkt aan project (3h)
+tijdens de week nog gewerkt aan het project --> +- 10h
 
 
 
